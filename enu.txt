@@ -1,0 +1,20 @@
+We want to program  to determine the frequency of words in a text. From a text file (written in ASCII - English) program should determine the words in the file and how may times are repeated each word.
+
+The operation of the program is very simple and will not use any menu. It will process sequentially:
+
+    Ask for the filename 
+    Read file processing words
+    Generate output
+
+The file will be processed as a text file encoded ASCII and his name is entered by keyboard. A text file is a sequence of words separated by non-alphabetic characters. A word is a group of letters (uppercase and lowercase) separated from each other by one or more non-alphabetic characters (space, line endings, punctuation...). In addition, to know the number of reps, do not distinguish between uppercase and lowercase.
+
+The output will be a list of words and their frequency. The outputease list is in alphabetical order and the words should be displayed in lowercase. After the list put the total number of words processed.
+
+Leave messages on screen:
+
+Enter the file name:
+File not found
+Count the words:
+N There are different words
+
+Example of execution:
